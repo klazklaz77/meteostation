@@ -1,4 +1,4 @@
-# Simple meteo station device with web interface.
+# Simple meteostation device with realtime web interface.
 
 Meteostation based on: 
   - Arduino Nano;
