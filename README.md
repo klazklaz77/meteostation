@@ -1,5 +1,7 @@
 # Simple meteostation device with realtime web interface
 
+# Pre release version;
+
 Meteostation based on: 
   - Arduino Nano;
   - ESP8266;
